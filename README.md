@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Surya Thejas
+## 👋 Hi, I'm Chalicheemala Surya Thejas
 
 🎓 Integrated M.Tech student at **VIT Vellore**  
 📊 Exploring **Data Science, Machine Learning, and real-world problem solving**  
